@@ -1,0 +1,94 @@
+body{
+    background-color: darkgrey;
+}
+.principal{
+    background-color: rgb(175, 29, 59);
+    margin: 5px;
+    border: 5px;
+    padding: 5px;
+
+}
+.contenido{
+    background-color: rgb(75, 138, 13);
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: black;
+    display: flex;
+    margin-top: 15px;
+}
+header{
+    background-color: rgb(75, 138, 13);
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: black;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+nav{
+    background-color: rgba(252, 255, 240, 0.801);
+    margin: 5px;
+    width: 20%;
+    padding: 5px;
+    border: 5px;
+    border-style: outset;
+    border-radius: 10px;
+    border-color: black;
+}
+section{
+    background-color: burlywood;
+    width: 40%;
+    margin: 5px;
+    padding: 5px;
+    border: 5px;
+    border-style: outset;
+    border-radius: 10px;
+    border-color: black;
+}
+img{
+    width: 200px;
+    margin: 10px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: black;
+}
+footer{
+    background-color: rgb(75, 138, 13);
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: black;
+    text-align: center;
+    margin-top: 15px;
+    color: rgb(255, 255, 255);
+}
+.caja{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(185, 185, 185);
+    padding: 3px;
+    margin: 3px;
+    border: 2px;
+    border-style: outset;
+    border-color: black;
+    margin-top: 30px;
+}
+ul{
+    list-style: none;
+    text-align: center;
+    padding: 2px;
+}
+h4{
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+}
